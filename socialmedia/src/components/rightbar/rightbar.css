@@ -8,6 +8,8 @@
   
   .rightbarTitle{
       margin-bottom: 20px;
+      font-size: 18px;
+      font-weight: 500;
   }
   
   .rightbarFriendList {
@@ -20,7 +22,7 @@
       display: flex;
       align-self: center;
       margin-bottom: 15px;
-        align-items: center;
+      align-items: center;
   }
 
   .rightbarProfileImgContainer{
@@ -37,4 +39,14 @@
 
   .rightbarUsername{
       font-weight: 500;
+  }
+
+  .rightbarInfoKey{
+    font-weight: 500;
+    margin-right: 15px;
+    color: #555;
+  }
+
+  .rightbarInfoValue{
+    font-weight: 300;
   }

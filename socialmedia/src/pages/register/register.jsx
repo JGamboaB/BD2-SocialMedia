@@ -12,7 +12,7 @@ export default function Register(){
                 </div>
                 <div className="loginRight">
                     <div className="loginbox">
-                        <input placeholder="Username"className="loginInput"/>
+                        <input placeholder="Nombre Completo"className="loginInput"/>
                         <input placeholder="Email"className="loginInput"/>
                         <input placeholder="Password"className="loginInput"/>
                         <input placeholder="Password Again"className="loginInput"/>

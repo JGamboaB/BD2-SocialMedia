@@ -7,7 +7,7 @@ export default function Login(){
                 <div className="loginLeft">
                     <h3 className="loginLogo">Facebook Pirata</h3>
                     <span className="loginDesc"> 
-                    Haz amigos con Facebook Pirata. 
+                    Haz amigos con la nueva red social! 
                     </span>
                 </div>
                 <div className="loginRight">

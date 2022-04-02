@@ -1,0 +1,28 @@
+.sidebar{
+    flex:3;
+    margin-left: -8px;
+    height: 100%; /*height: calc(100vh - 50px) */
+    position: sticky;
+    top: 60px;
+}
+
+.sidebarWrapper{
+    margin-top: -1pc;
+    padding: 20 px;
+
+}
+
+.sidebarList{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.sidebarListItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+ }
+ .sidebarIcon{
+    margin-right: 15px;
+ }

@@ -1,4 +1,5 @@
 import './post.css'
+import Comment from '../comment/Comment'
 
 // Edit post if userid == postuserid
 // Comments
@@ -26,6 +27,7 @@ export default function Post() {
             <div className="postBottom"> 
                 <div className="postBottomLeft"></div>
                 <div className="postBottomRight"></div>
+                <Comment/>
             </div>
         </div>
     </div>

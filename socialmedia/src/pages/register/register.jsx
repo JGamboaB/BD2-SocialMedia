@@ -14,6 +14,7 @@ export default function Register(){
                     <div className="loginbox">
                         <input placeholder="Nombre Completo"className="loginInput"/>
                         <input placeholder="Email"className="loginInput"/>
+                        <input placeholder="Fecha de nacimiento"className="loginInput"/>
                         <input placeholder="Password"className="loginInput"/>
                         <input placeholder="Password Again"className="loginInput"/>
                         <button className="loginButton">Registrarte</button>

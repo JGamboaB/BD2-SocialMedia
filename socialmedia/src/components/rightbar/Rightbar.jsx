@@ -6,29 +6,29 @@ export default function Rightbar({profile}) {
   const HomeRightbar = () => {
     return(
       <>
-      <h4 className='rightbarTitle'>Friends</h4>
-        <ul className="rightbarFriendList">
+      <h4 className='rightbarTitle'>People</h4>
+        <ul className="rightbarPeopleList">
 
-          <li className="rightbarFriend">
+          <li className="rightbarPeople">
             <div className="rightbarProfileImgContainer">
               <img src="/assets/1.jpg" alt="" className="rightbarProfileImg" />
             </div>
             <span className="rightbarUsername">William Afton</span>
           </li>
           
-          <li className="rightbarFriend">
+          <li className="rightbarPeople">
             <div className="rightbarProfileImgContainer">
               <img src="/assets/1.jpg" alt="" className="rightbarProfileImg" />
             </div>
             <span className="rightbarUsername">William Afton</span>
           </li>
-          <li className="rightbarFriend">
+          <li className="rightbarPeople">
             <div className="rightbarProfileImgContainer">
               <img src="/assets/1.jpg" alt="" className="rightbarProfileImg" />
             </div>
             <span className="rightbarUsername">William Afton</span>
           </li>
-          <li className="rightbarFriend">
+          <li className="rightbarPeople">
             <div className="rightbarProfileImgContainer">
               <img src="/assets/1.jpg" alt="" className="rightbarProfileImg" />
             </div>

@@ -4,9 +4,8 @@ import Register from "./pages/register/register";
 import Profile from "./pages/profile/Profile";
 
 function App() {
-  return <Home/>;
+  return <Login/>;
+
 }
 
 export default App;
-
-//yarn add expressmongoose dotenv helmet nodemon morgan
